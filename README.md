@@ -1,13 +1,11 @@
-# HTML, CSS, JavaScript and JQuery projects
-## Description
 Training projects in html, css, javascript and jquery.
 
 ## Repository contents
 Files:
 
 |   **File**   |   **Description**   |   **Deploy**
-| -------------- | --------------------- | ------------------ |
-|Gradient-color-generator/ | Gradient color generator for your backgrounds | [Link](https://zulsb.github.io/html-css-javascript-jquery/Gradient-color-generator/index.html)
+| -------------- | --------------------- |------------------|
+|Gradient-color-generator/ | Gradient color generator for your backgrounds | [View](https://zulsb.github.io/html-css-javascript-jquery/Gradient-color-generator/index.html)
 |README.md | File that defines the project documentation. |
 
 ## Software developer
