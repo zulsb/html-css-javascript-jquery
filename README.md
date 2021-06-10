@@ -7,6 +7,7 @@ Files:
 |   **File**   |   **Description**   |   **Deploy**
 | -------------- | --------------------- | ------------------ |
 |Gradient-color-generator/ | Gradient color generator for your backgrounds | [View](https://zulsb.github.io/html-css-javascript-jquery/Gradient-color-generator/index.html)
+|ToDoNewList/ | To do list app | [View](https://zulsb.github.io/html-css-javascript-jquery/ToDoNewList/index.html)
 |README.md | File that defines the project documentation. |
 
 ## Software developer
