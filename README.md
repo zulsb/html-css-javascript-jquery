@@ -8,6 +8,7 @@ Files:
 | -------------- | --------------------- | ------------------ |
 |Gradient-color-generator/ | Gradient color generator for your backgrounds. | [View](https://zulsb.github.io/html-css-javascript-jquery/Gradient-color-generator/index.html)
 |ToDoNewList/ | To do list app, list of tasks, wishes, pending objectives. | [View](https://zulsb.github.io/html-css-javascript-jquery/ToDoNewList/index.html)
+|Calculator/ | Calculator for addition, subtraction, multiplication and division. | [View](https://zulsb.github.io/html-css-javascript-jquery/Calculator)
 |README.md | File that defines the project documentation. |
 
 ## Software developer
